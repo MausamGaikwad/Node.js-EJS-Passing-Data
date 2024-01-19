@@ -1,4 +1,4 @@
-## Node.js EJS Data Passer
+# Node.js EJS Data Passer
 A web application built with Node.js and EJS for seamless data transmission. Easily count and display the total letters in your name.
 
 ## Installation
