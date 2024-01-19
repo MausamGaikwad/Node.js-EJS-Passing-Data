@@ -19,7 +19,7 @@ Copy code
 Copy code
 `npm start`
 
-The server will run on `http://localhost:3000`.
+  The server will run on `http://localhost:3000`.
 
 2. Open your web browser and go to `http://localhost:3000`.
 
@@ -37,5 +37,5 @@ The server will run on `http://localhost:3000`.
 Feel free to contribute to the project by submitting issues or pull requests.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
