@@ -2,29 +2,30 @@
 A web application built with Node.js and EJS for seamless data transmission. Easily count and display the total letters in your name.
 
 ## Installation
-Clone the repository:
+1. Clone the repository:
 Copy code
 `git clone https://github.com/MausamGaikwad/Node.js-EJS-Passing-Data.git`
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 Copy code
 `cd Node.js-EJS-Passing-Data`
 
-Install dependencies:
+3. Install dependencies:
 Copy code
 `npm install`
 
 ## Usage
-Start the server:
+1. Start the server:
 Copy code
 `npm start`
+
 The server will run on `http://localhost:3000`.
 
-Open your web browser and go to `http://localhost:3000`.
+2. Open your web browser and go to `http://localhost:3000`.
 
-Enter your first and last name in the provided form and click "OK."
+3. Enter your first and last name in the provided form and click "OK."
 
-The application will display the total number of letters in your name.
+4. The application will display the total number of letters in your name.
 
 ## Project Structure
 * index.js: Entry point for the Node.js application.
