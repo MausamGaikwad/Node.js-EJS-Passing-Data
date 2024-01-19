@@ -20,9 +20,9 @@ Start the server:
 bash
 Copy code
 npm start
-The server will run on http://localhost:3000.
+The server will run on `http://localhost:3000`.
 
-Open your web browser and go to http://localhost:3000.
+Open your web browser and go to `http://localhost:3000`.
 
 Enter your first and last name in the provided form and click "OK."
 
@@ -33,6 +33,7 @@ The application will display the total number of letters in your name.
 * views/index.ejs: HTML template for the main page.
 * package.json: Project configuration file containing dependencies and scripts.
 * LICENSE: MIT License for the project.
+
 ## Contributing
 Feel free to contribute to the project by submitting issues or pull requests.
 
