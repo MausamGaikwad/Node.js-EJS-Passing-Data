@@ -29,10 +29,10 @@ Enter your first and last name in the provided form and click "OK."
 The application will display the total number of letters in your name.
 
 ## Project Structure
-index.js: Entry point for the Node.js application.
-views/index.ejs: HTML template for the main page.
-package.json: Project configuration file containing dependencies and scripts.
-LICENSE: MIT License for the project.
+* index.js: Entry point for the Node.js application.
+* views/index.ejs: HTML template for the main page.
+* package.json: Project configuration file containing dependencies and scripts.
+* LICENSE: MIT License for the project.
 ## Contributing
 Feel free to contribute to the project by submitting issues or pull requests.
 
