@@ -17,7 +17,7 @@ Install dependencies:
 bash
 Copy code
 npm install
-Usage
+## Usage
 Start the server:
 
 bash
