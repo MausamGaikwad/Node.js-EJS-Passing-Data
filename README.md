@@ -1,7 +1,7 @@
-Node.js EJS Data Passer
+## Node.js EJS Data Passer
 A web application built with Node.js and EJS for seamless data transmission. Easily count and display the total letters in your name.
 
-Installation
+## Installation
 Clone the repository:
 
 bash
@@ -31,14 +31,14 @@ Enter your first and last name in the provided form and click "OK."
 
 The application will display the total number of letters in your name.
 
-Project Structure
+## Project Structure
 index.js: Entry point for the Node.js application.
 views/index.ejs: HTML template for the main page.
 package.json: Project configuration file containing dependencies and scripts.
 LICENSE: MIT License for the project.
-Contributing
+## Contributing
 Feel free to contribute to the project by submitting issues or pull requests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
