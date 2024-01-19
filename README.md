@@ -4,22 +4,20 @@ A web application built with Node.js and EJS for seamless data transmission. Eas
 ## Installation
 Clone the repository:
 Copy code
-git clone https://github.com/MausamGaikwad/Node.js-EJS-Passing-Data.git
+`git clone https://github.com/MausamGaikwad/Node.js-EJS-Passing-Data.git`
 
 Navigate to the project directory:
 Copy code
-cd Node.js-EJS-Passing-Data
+`cd Node.js-EJS-Passing-Data`
 
 Install dependencies:
 Copy code
-npm install
+`npm install`
 
 ## Usage
 Start the server:
-
-bash
 Copy code
-npm start
+`npm start`
 The server will run on `http://localhost:3000`.
 
 Open your web browser and go to `http://localhost:3000`.
